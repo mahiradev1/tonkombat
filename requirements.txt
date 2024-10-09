@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 requests
 inquirer
 colorama
 fake_useragent
+=======
+requests
+inquirer
+colorama
+>>>>>>> origin/main
