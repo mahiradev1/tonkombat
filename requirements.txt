@@ -1,0 +1,4 @@
+requests
+inquirer
+colorama
+fake_useragent
